@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "projectImage": "https://images.pexels.com/photos/2324837/pexels-photo-2324837.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "projectVideo": "https://player.vimeo.com/external/371911097.sd.mp4?s=d58e8d2d5403738610735f6ac579d13cff1cb97a&profile_id=164&oauth2_token_id=57447761",
+      "avatar": "https://images.pexels.com/photos/4386466/pexels-photo-4386466.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "projectTitle": "Inspiring Stories from the Frontlines of Healthcare",
+      "projectGroup": "Nursing Chronicles",
+      "viewsDuration": "13M Views . 4 years ago"
+    },
+    {
+      "id": 2,
+      "projectImage": "https://images.pexels.com/photos/1618200/pexels-photo-1618200.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "projectVideo": "https://player.vimeo.com/external/465030736.sd.mp4?s=bdac459334e5acd06c52364716453a1c269f34d9&profile_id=164&oauth2_token_id=57447761",
+      "avatar": "https://images.pexels.com/photos/12742571/pexels-photo-12742571.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "projectTitle": "Unstoppable Rugby Clash: Epic Showdown Between Rival Titans!",
+      "projectGroup": "The Rugby Zone",
+      "viewsDuration": "11M views . 14 years ago"
+    },
+    {
+      "id": 3,
+      "projectImage": "https://images.pexels.com/photos/2479312/pexels-photo-2479312.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "projectVideo": "https://player.vimeo.com/external/174002832.sd.mp4?s=0ca35de91c0ee05b84b55543c19cd0e47aa67a80&profile_id=164&oauth2_token_id=57447761",
+      "avatar": "https://images.pexels.com/photos/1886641/pexels-photo-1886641.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "projectTitle": "A Journey Through Captivating Musical Landscapes",
+      "projectGroup": "Melodic Medley",
+      "viewsDuration": "589K views . 1 month ago"
+    },
+    {
+      "id": 4,
+      "projectImage": "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "projectVideo": "https://player.vimeo.com/external/478383217.sd.mp4?s=e6117ac8f539fcd2e9fc57c1f8c348b1063ab6c9&profile_id=164&oauth2_token_id=57447761",
+      "avatar": "https://images.pexels.com/photos/699953/pexels-photo-699953.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "projectTitle": "Culinary Adventures and Mouthwatering Recipes",
+      "projectGroup": "Savor Delights",
+      "viewsDuration": "64K views . 9 days ago"
+    },
+    {
+      "id": 5,
+      "projectImage": "https://images.pexels.com/photos/4427643/pexels-photo-4427643.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "projectVideo": "https://player.vimeo.com/external/371834067.sd.mp4?s=8e5e2ca9b1e2d5e8512925ac3d4e2945b3aa6189&profile_id=164&oauth2_token_id=57447761",
+      "avatar": "https://images.pexels.com/photos/1602726/pexels-photo-1602726.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "projectTitle": "Mastering Finances and Unlocking Financial Freedom",
+      "projectGroup": "Wealth Wizards",
+      "viewsDuration": "155K views . 19 days ago"
+    },
+    {
+      "id": 6,
+      "projectImage": "https://images.pexels.com/photos/169647/pexels-photo-169647.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "projectVideo": "https://player.vimeo.com/external/356352974.sd.mp4?s=92403d50d3f3e9e3ee22e0ec8b879e2a68b7be18&profile_id=164&oauth2_token_id=57447761",
+      "avatar": "https://images.pexels.com/photos/290275/pexels-photo-290275.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "projectTitle": "Exploring the World's Most Majestic Skyscrapers",
+      "projectGroup": "Reaching the Heights",
+      "viewsDuration": "755K views . 21 days ago"
+    },
+    {
+      "id": 7,
+      "projectImage": "https://images.pexels.com/photos/1308881/pexels-photo-1308881.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "projectVideo": "https://player.vimeo.com/external/329302864.sd.mp4?s=3ea1078a4f0ef0237aaaf50ac2df75d702395612&profile_id=164&oauth2_token_id=57447761",
+      "avatar": "https://images.pexels.com/photos/1767434/pexels-photo-1767434.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "projectTitle": " Celebrating Girls Who Change the World",
+      "projectGroup": "Empowered and Extraordinary",
+      "viewsDuration": "955K views . 1 days ago"
+    },
+    {
+      "id": 8,
+      "projectImage": "https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "projectVideo": "https://player.vimeo.com/external/342867313.sd.mp4?s=1e196b352b464cd53b2c10f1c8f5de1a7a3d4d37&profile_id=164&oauth2_token_id=57447761",
+      "avatar": "https://images.pexels.com/photos/965345/pexels-photo-965345.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "projectTitle": " Unveiling the Secrets of Software Development",
+      "projectGroup": "Coding Chronicles",
+      "viewsDuration": "1.2M views . 4 months ago"
+    },
+    {
+      "id": 9,
+      "projectImage": "https://images.pexels.com/photos/272443/pexels-photo-272443.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "projectVideo": "https://player.vimeo.com/external/426199199.sd.mp4?s=ad37abb7b0f4438103e7debd27f95e5264af5f02&profile_id=164&oauth2_token_id=57447761",
+      "avatar": "https://images.pexels.com/photos/2937410/pexels-photo-2937410.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "projectTitle": "  Unleashing the Power and Beauty of Automotive Marvels",
+      "projectGroup": "Revved Up",
+      "viewsDuration": "2.2M views . 9 months ago"
+    }
+  ]
+}
